@@ -1,4 +1,4 @@
-//*  JavaScript 6th Edition v 1.16
+/*  JavaScript 6th Edition v 1.16
  
     Large format style sheet
 
@@ -245,7 +245,7 @@ aside #estimate {
 /* footer */
 footer {
    background: white;
-   width: 100%;
+   width: 960px;
    clear: both;
    font-size: 14px;
    padding: 10px;
